@@ -4,7 +4,9 @@
 
 ## Bem-vindos ao portfólio do studio Hemera!
 
-|:![01](https://github.com/B-e-a-t-r-i-z/portfolio_hemera/assets/100288801/158cea2a-a087-4a8e-afd0-ac150ef127f4):|:![02](https://github.com/B-e-a-t-r-i-z/portfolio_hemera/assets/100288801/83f0c95b-1dee-411d-9c82-73a53491b276)|![03](https://github.com/B-e-a-t-r-i-z/portfolio_hemera/assets/100288801/02fa5408-9882-462f-8cef-22d17e2fe23f):| 
+![01](https://github.com/B-e-a-t-r-i-z/portfolio_hemera/assets/100288801/158cea2a-a087-4a8e-afd0-ac150ef127f4)
+![02](https://github.com/B-e-a-t-r-i-z/portfolio_hemera/assets/100288801/a33bb71a-09dc-49e8-94f1-aa04085e5281)
+![03](https://github.com/B-e-a-t-r-i-z/portfolio_hemera/assets/100288801/50d52e9c-3047-45e4-83b7-bc4f15323b98)
 
 ### **Descrição:**
 
