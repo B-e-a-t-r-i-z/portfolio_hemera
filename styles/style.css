@@ -138,7 +138,7 @@ body {
 
 /* FORMAÇÃO */
 
-.formacao__titulo{
+.formacao__titulo {
     position: relative;
     top: 650px; 
     left: 45%;
@@ -278,7 +278,7 @@ form {
     width: 85%;
 }
 
-#email{
+#email {
     width: 85%;
 }
 
@@ -303,7 +303,9 @@ form {
     font-size: 16px;    
 }
 
+/* ESCONDER SE A TELA FOR MAIOR DO QUE 1021 */
 @media screen and (min-width: 1021px) {
+
     .btn__abrir__menu, .menu__mobile, .overlay__menu {
         display: none;
     }
@@ -325,6 +327,10 @@ form {
 
     /* SOBRE_MIM */
 
+    .sobre__mim {
+        top: 120px;
+    }
+
     .divisao {
         flex-direction: column;
     }
@@ -335,10 +341,11 @@ form {
 
     .divisao strong {
         font-size: 70px;
+        top: 20px;
     }
 
     .apresentacao__conteudo__texto {
-        top: 80px;
+        top: 40px;
         left: 0%;
         width: 90%;
         font-size: 20px;
@@ -346,64 +353,92 @@ form {
     }
 
     /* HOBBIES */
-    .hobbies__titulo{
+    .hobbies__titulo {
         left: 35%;
+        top: 200px;
     }
+
     .hobbies__lista {
         flex-direction: column;
         gap: 40px;
+        top: 250px;
     }
     
     /* FORMAÇÃO */
-    .formacao__titulo{
+
+    .formacao__titulo {
         left: 30%;
+        top: 300px;
     }
 
     .formacao__lista {
         flex-direction: column;
-        left: 20%;
+        top: 350px;
+        left: 28%;
         gap: 40px;
+        margin: 0%;
+        width: 50%;
+        align-items: center;
+    }
+
+    .formacao__lista li {
+        width: 80%;
+    }
+
+    .formacao__lista__itens {
+        width: 90%;
+    }
+
+    #logo__alura {
+        width: 90%;
+        flex-wrap: wrap;
     }
 
     /* PROJETOS */
-    .projetos__titulos{
-        left: 30%;
+    .projetos__titulos {
+        top: 400px;
+        left: 35%;
     }
 
     .projetos__lista {
         flex-direction: column;
+        position: relative;
         gap: 40px;
     }
 
     .projetos__lista__itens {
         width: 90%;
         left: 5%;
+        top: 450px;
     }
 
     /* FORMULÁRIO */
     .contato__titulo {
-        left: 35%;
+        top: 200px;
+        left: 34%;
     }
     
     .contato__texto {
-        width: auto;
-        left: 25%;
+        width: 55%;
+        left: 23%;
+        top: 220px;
     }
 
     form {
+        top: 250px;
         left: 5%;
         width: 90%;
     }
 
     .contato__formulario__enviar {
-        left: 30%;
+        left: 25%;
     }
 
     #nome {
         width: 95%;
     }
     
-    #email{
+    #email {
         width: 95%;
     }
     
@@ -411,15 +446,18 @@ form {
         width: 95%;
     }
 
+    .rodape {
+        top: 540px;
+    }
+
     /* MENU MOBILE */
 
     .btn__abrir__menu {
         position: fixed;
         top: 2%;
-        right: 4%;
+        right: 5%;
         z-index: 88888;
         color: #ffffff;
-
     }
 
     .menu__mobile {
@@ -469,7 +507,7 @@ form {
         justify-content: flex-end;
     }
 
-    .menu__mobile__redes a{
+    .menu__mobile__redes a {
         padding: 10% 10% 0%  2%;
         width: 30px;
     }
