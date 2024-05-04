@@ -5,8 +5,8 @@
 ## Bem-vindos ao portfólio do studio Hemera!
 
 ![01](https://github.com/B-e-a-t-r-i-z/portfolio_hemera/assets/100288801/158cea2a-a087-4a8e-afd0-ac150ef127f4)
-![02](https://github.com/B-e-a-t-r-i-z/portfolio_hemera/assets/100288801/a33bb71a-09dc-49e8-94f1-aa04085e5281)
-![03](https://github.com/B-e-a-t-r-i-z/portfolio_hemera/assets/100288801/50d52e9c-3047-45e4-83b7-bc4f15323b98)
+![02](https://github.com/B-e-a-t-r-i-z/portfolio_hemera/assets/100288801/94c2ffb9-ca74-47fc-8d7a-dce59e992721)
+![03](https://github.com/B-e-a-t-r-i-z/portfolio_hemera/assets/100288801/79fff5d2-a2f1-4f69-bcff-ac1707629567)
 
 ### **Descrição:**
 
@@ -19,7 +19,7 @@ Portfólio criado para profissinal de manicure e pedicure que contém os projeto
 - Menu Lateral para mobile;
 - Seção Sobre Mim;
 - Seção Hobbies;
-- Seção Formações + Cursos;
+- Seção Formação;
 - Seção Projetos;
 - Formulário de Contato;
 - Rodapé.
@@ -28,25 +28,26 @@ Portfólio criado para profissinal de manicure e pedicure que contém os projeto
 > - Deverá ter os links que direcionarão para cada uma das seções do portfólio e redes socias.
 >###### *Por exemplo: ao clicar no link "Sobre Mim", a página deverá rolar até esta seção.*
 
->>#### Menu Lateral para mobile:
+>#### Menu Lateral para mobile:
 > - Deverá ter os links que direcionarão para cada uma das seções do portfólio e redes socias.
 >###### *Por exemplo: ao clicar no link "Projetos", a página deverá rolar até esta seção.*
 
 >#### Seção Sobre mim:
 > - Um resumo de sua biografia. Um pouco sobre sua história e trajetória.
 
->#### Seção Skills e Hobbies:
+>#### Seção Hobbies:
 > - Hobbies que possui.
 >###### *Por exemplo: atividades que goste de realizar.*
 
->#### Seção Formações e Cursos:
+>#### Seção Formação:
 > - Trajetória acadêmica, cursos e realizações relevantes.
 
->#### Seção Experiência em Programação:
+>#### Seção Projetos:
 > - Projetos que já tenha realizado.
 
 >#### Seção Contato:
-> ##### Formulário de contato que contem os seguintes campos:
+> - Deverá enviar um e-mail com todas as informações dos campos do formulário.
+> ##### Formulário de contato contem os seguintes campos:
 > - Nome;
 > - E-mail;
 > - Assunto;
